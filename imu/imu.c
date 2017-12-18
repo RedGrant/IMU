@@ -94,7 +94,7 @@ long accValue(int i, int j)
 
 }
 
-//computes the inclonometer acceleration output of the correspondent axis (given by i)
+//computes the inclinonometer acceleration output of the correspondent axis (given by i)
 long incValue(int i)
 {
 	int output = 0;
